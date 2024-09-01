@@ -23,9 +23,9 @@ This repository contains solutions to 20 Java programming assignments that cover
 ## Usage
 To use the code in this repository:
 
-1. Clone the repository to your local machine using:  https://github.com/remiges-tejas/Java-Assignment
+1. Clone the repository to your local machine using:
    ```
-
+   git clone https://github.com/yourusername/Java-Assignment.git
    ```
 
 2. Navigate to the directory of the assignment you wish to run.
